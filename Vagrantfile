@@ -1,5 +1,4 @@
-#BOX = "debian/bullseye64" # Light
-BOX = "generic/alpine319" # Ultra light
+BOX = "debian/bookworm64"
 
 Vagrant.configure("2") do |config|
 
